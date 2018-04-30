@@ -1,0 +1,24 @@
+{
+  "name": "SVG-Loaders",
+  "homepage": "https://github.com/Revplit-team/svg-loaders/",
+  "description": "SVG Loading icons and animations without CSS or JS.",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "site-assets",
+    "index.html"
+  ],
+  "keywords": [
+    "progress",
+    "svg",
+    "loaders",
+    "loading",
+    "spinners",
+    
+  ]
+}
