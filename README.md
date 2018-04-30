@@ -38,6 +38,8 @@ Browser support
 | Firefox(Android) | 57 |
 | UC Browser(Android) | 11.8 |
 | Samsung Internet | 6.2 |
+| QQ Browser | 1.2 |
+| Baidu Browser | 7.12 |
 
 
 
