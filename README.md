@@ -6,7 +6,7 @@ Demo
 
 https://revplit.com/github/demos/svg-loaders-open-source/index
 
-<img src="https://i.imgur.com/MF1dVKu.gifv">
+<img src="https://i.imgur.com/MF1dVKu.gif">
 
 NOTE: Chrome 45 intended to deprecate SMIL icons but has since [suspended](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/5o0yiO440LM%5B126-150%5D) that deprecation.
 
