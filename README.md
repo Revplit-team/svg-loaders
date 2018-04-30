@@ -37,6 +37,8 @@ Browser support
 | Chrome(Android) | 64 |
 | Firefox(Android) | 57 |
 | UC Browser(Android) | 11.8 |
+| Samsung Internet | 6.2 |
+
 
 
 Source: http://caniuse.com/#feat=svg-smil
