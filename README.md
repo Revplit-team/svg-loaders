@@ -1,3 +1,4 @@
+
 # svg-loaders
 SVG Loading icons and animations
 
@@ -44,9 +45,15 @@ Browser support
 | Baidu Browser | 7.12 |
 
 
-
 Source: http://caniuse.com/#feat=svg-smil
 
 Minify
 ===========
 All SVG files are fairly small in size, but you can make them even smaller by minifying with something like [SVGO](https://github.com/svg/svgo).
+
+Support
+===========
+
+If you've any questions or suggestions you can contact us on: https://discord.gg/DCe3m7p
+
+<center><a target="_blank" href="https://discord.gg/wzj5TCW"> <img class="discord" style="border-radius: 5px;" src="https://discordapp.com/api/guilds/383650009788448769/widget.png?style=banner2" ></a></center>
